@@ -5,7 +5,7 @@ Skynet Converter is tool to convert your file Image To PDF, JPG To PNG etc...
 
 ## Add Skynet To Your Homescreen
 
-[![Add to Homescreen](https://img.shields.io/badge/Skynet-Add%20To%20Homescreen-00c65e?logo=skynet&labelColor=0d0d0d)](https://homescreen.hns.siasky.net/#/skylink/_Anmm-2LQVkyubm0_y9wXWHxHjVywZvfsNAn0s2nDxbqlA)
+[![Add to Homescreen](https://img.shields.io/badge/Skynet-Add%20To%20Homescreen-00c65e?logo=skynet&labelColor=0d0d0d)](https://homescreen.hns.siasky.net/#/skylink/AQBBdk0bf5RZwPpSFJwEVB2EzY64jT_KvnQJF0AILyDpfw)
 
 ## Build
 
