@@ -1,0 +1,28 @@
+{
+    "background_color": "#fff",
+    "display": "standalone",
+    "homepage_url": "https://github.com/karangorania/Skynet-Converter",
+    "providedBy": { "name": "Skynet Converter", "url": "https://github.com/karangorania/Skynet-Converter" },
+    "icons": [
+      {
+        "src": "./assets/img/favicon.svg",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "./assets/img/favicon.svg",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "orientation": "portrait",
+    "name": "Skynet Converter",
+    "description": "Convert your Image to PDF & JPG To PNG",
+    "iconPath": "./assets/img/favicon.svg",
+    "short_name": "Skynet Converter ",
+    "start_url": ".",
+    "theme_color": "#ff007a",
+    "skylink": ""
+  }
